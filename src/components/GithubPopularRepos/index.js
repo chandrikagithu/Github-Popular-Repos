@@ -75,6 +75,7 @@ class GithubPopularRepos extends Component {
         alt="failure view"
         className="failure-image"
       />
+      <h1 className="error_name">Something Went Wrong</h1>
     </div>
   )
 
