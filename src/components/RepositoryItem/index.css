@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.list-container {
+  padding-right: 0px;
+  list-style-type: none;
+  width: 250px;
+  margin: 10px;
+}
+.each-list {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.avatar-image {
+  width: 30%;
+}
+.name-heading {
+  color: #e73959;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.count-container {
+  display: flex;
+}
+.icon-image {
+  width: 18%;
+  height: 20px;
+  margin-right: 7px;
+}
+.count {
+  color: #1e293b;
+  margin-top: 0px;
+  font-size: 13px;
+}
+.issue-image {
+  width: 13%;
+  height: 20px;
+  margin-right: 7px;
+  margin-left: 16px;
+}

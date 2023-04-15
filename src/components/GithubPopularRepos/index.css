@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.popular-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-family: 'Lobster';
+  font-size: 40px;
+}
+.button-list {
+  display: flex;
+  list-style-type: none;
+  margin-left: 0;
+}
+.failure-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  width: 40%;
+}
+
+.repo-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
